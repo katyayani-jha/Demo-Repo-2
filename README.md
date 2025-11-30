@@ -1,3 +1,4 @@
-# Demo 2
+# Retraining-Based Voice Cloning System
 
-Some text!
+Derived from: https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+And the Mangio-RVC fork: https://github.com/Mangio621/Mangio-RVC-Fork
